@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68921237530",
+    "project_id": "sitocash-5d762",
+    "storage_bucket": "sitocash-5d762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68921237530:android:c1ea1140d7d98b801f31a3",
+        "android_client_info": {
+          "package_name": "com.sitocash.wallet.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68921237530-d5vkoab2l85kntg6enreu3cl4kojqth8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg8VmTseOHbqLCVeYLr9A-8zG75uHyj8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68921237530-d5vkoab2l85kntg6enreu3cl4kojqth8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
