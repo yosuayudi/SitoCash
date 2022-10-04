@@ -10,6 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -37,4 +38,5 @@ dependencies {
     implementation 'com.android.support:support-v4:27.1.1'
     //noinspection GradleCompatible
     implementation 'com.android.support:cardview-v7:27.1.1'
+    implementation 'com.android.support:multidex:1.0.3'
 }
